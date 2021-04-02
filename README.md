@@ -7,11 +7,11 @@ An example of an Android Calculator App with all basic features and a minimal sa
 
 ## ScreenShots
 
-|                   splash                    |             Dynamic output display              |             main - onClick `C`             |
-| :-----------------------------------: | :-----------------------------------: | :-----------------------------------: |
-|    ![activity_splash](images/image1.png "title-1")    | ![Dynamic Output](images/image3.png "title-3") | ![Clear](images/image2.png "title-2") |
-|                     onClick `()`                      |              onClick `.`              |                  onClick `=`                   |
-| ![Logic for Parentheses](images/image4.png "title-1") |     ![Point](images/image5.png "title-2")      | ![Evaluate](images/image6.png "title-3") |
+splash                   |       dynamic output display      | main - onClick `C` |
+:-------------------------:|:-------------------------:|:-------------------------:
+![activity_splash](images/image1.png =250x) | ![Dynamic Output](images/image3.png =250x) | ![Clear](images/image2.png =250x)
+onClick `()`             |              onClick `.`      |         onClick `=`    |
+![Logic for Parentheses](images/image4.png =250x) | ![Point](images/image5.png =250x) |    ![Evaluate](images/image6.png =250x)
 
 ## Note
 
