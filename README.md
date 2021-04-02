@@ -9,11 +9,13 @@ An example of an Android Calculator App with all basic features and a minimal sa
 
 splash                   |       dynamic output display      | main - onClick `C` |
 :-------------------------:|:-------------------------:|:-------------------------:
-![activity_splash](images/image1.png =250x) | ![Dynamic Output](images/image3.png =250x) | ![Clear](images/image2.png =250x)
+<img src="images/image1.png" width="200" /> | <img src="images/image2.png" width="200" /> | <img src="images/image3.png" width="200" />
 onClick `()`             |              onClick `.`      |         onClick `=`    |
-![Logic for Parentheses](images/image4.png =250x) | ![Point](images/image5.png =250x) |    ![Evaluate](images/image6.png =250x)
+<img src="images/image4.png" width="200" /> | <img src="images/image5.png" width="200" /> |   <img src="images/image6.png" width="200" />
 
 ## Note
 
 This playful android app was one among a few created as per the requirements of `Mobile Communication and Computing` course lab experiments (Sem 7), Computer
 Engineering - Mumbai University
+
+© 2020 Darlene Nazareth
